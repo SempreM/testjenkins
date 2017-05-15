@@ -1,4 +1,4 @@
 <?php
-jj;
+echo 'la';
 
 echo 'ici';
